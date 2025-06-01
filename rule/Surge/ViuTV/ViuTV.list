@@ -6,6 +6,14 @@
 # PROCESS-NAME: 3
 # USER-AGENT: 1
 # TOTAL: 12
+
+DOMAIN,licensing.bitmovin.com
+DOMAIN,d3o7oi00quuwqu.cloudfront.net
+DOMAIN-SUFFIX,qlogo.cn
+IP-CIDR,117.89.176.31/8,no-resolve
+IP-CIDR,180.101.242.227/8,no-resolve
+IP-CIDR,101.227.132.43/8,no-resolve
+
 DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
 DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net
